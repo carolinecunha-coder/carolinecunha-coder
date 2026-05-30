@@ -1,6 +1,6 @@
 # Olá, sou Caroline de Souza Cunha Lopes 👋
 
-### Especialista em Investimentos, Seguros de Vida e Previdência | Inteligência Financeira | Análise de Dados | Inteligência de Negócios (BI) | CPA-20
+### Inteligência Financeira e Seguros | Data Analytics & Análise de Sistemas | Python | ETL | SQL | CPA-20
 
 Profissional com mais de 13 anos de experiência no mercado financeiro, atuando na gestão e consultoria de carteiras de investimentos, previdência e seguros de vida, com foco em proteção patrimonial, relacionamento consultivo e inteligência financeira.
 
