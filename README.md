@@ -1,35 +1,37 @@
 # Olá, sou Caroline de Souza Cunha Lopes 👋
 
-### Inteligência Financeira e Seguros | Data Analytics & Análise de Sistemas | Python | ETL | SQL | CPA-20
+### Seguros, Investimentos e Finanças | Inteligência de Mercado | CPA-20 | Análise de Dados com Python e SQL
 
-Profissional com mais de 13 anos de experiência no mercado financeiro, atuando na gestão e consultoria de carteiras de investimentos, previdência e seguros de vida, com foco em proteção patrimonial, relacionamento consultivo e inteligência financeira.
+Profissional sênior com sólida trajetória e bagagem nos setores de finanças, investimentos e seguros de vida, especializada em inteligência de mercado, gestão de portfólios e proteção de ativos sob a certificação ANBIMA CPA-20. Atuo estrategicamente na condução de análises de viabilidade financeira, avaliação de riscos e acompanhamento de indicadores macroeconômicos de performance.
 
-Certificada CPA-20 pela ANBIMA, desenvolvi minha trajetória com base em análise estratégica de cenários, identificação de oportunidades de negócios e apoio à tomada de decisão orientada por dados.
+Utilizo Python, SQL e Pandas de forma instrumental para automatizar rotinas gerenciais, manipular grandes volumes de dados financeiros e otimizar regras de negócio complexas do mercado de seguros e investimentos.
 
-Atualmente, direciono meu desenvolvimento para Data Analytics e tecnologia, integrando análise de dados, automação e inteligência de negócios para transformar informações em insights estratégicos aplicados ao mercado financeiro e comercial.
-
-Tenho interesse em atuar em ambientes data-driven que conectem mercado financeiro, tecnologia e inovação, contribuindo para projetos de transformação digital, análise de dados e desenvolvimento de soluções estratégicas. Também busco apoiar iniciativas voltadas à educação, desenvolvimento de talentos e fortalecimento da cultura orientada por dados.
+Tenho experiência na identificação de tendências de mercado, análise de performance e modelagem de cenários através de relatórios executivos e indicadores visuais com Matplotlib. Domino a modelagem relacional de bancos de dados em SQLite e SQL Server, com integração de fontes e controle de versionamento estruturado via Git e GitHub para garantir eficiência operacional e governança.
 
 ---
 
-### 📊 Projetos Estratégicos
+## 📊 Projetos e Soluções Desenvolvidas
 
-* **[Análise de Investimentos](https://github.com/carolinecunha-coder/projeto-investimentos):** Estudo quantitativo de ativos financeiros e comparação com benchmarks (CDI, IPCA).
-* **[Inteligência de Vendas](https://github.com/carolinecunha-coder/analise-sales-farmavida):** Análise exploratória e visualização de tendências para otimização comercial.
-* **[Aegis Vita](https://github.com/carolinecunha-coder/aegis-vita):** Simulador de seguros desenvolvido com Python e FastAPI, utilizando SQLite para gerenciamento de prêmios e coberturas.
-* **[Análise de Varejo](https://github.com/carolinecunha-coder/Miniprojeto_CarolineSCLopes_Analise_de_Dados_T1.git):** Mini-projeto de ETL e Análise Exploratória de Dados (EDA) aplicado ao varejo utilizando Python e Pandas para identificação de insights comerciais.
-* **[Pipeline de Talentos](https://github.com/carolinecunha-coder/projeto-pipeline-talentos.git):** Dashboard de performance acadêmica focado em inteligência de dados para monitorar o sucesso estudantil, mapeando o impacto de hard skills e horas de estudo.
-* **[Portfólio Pessoal](https://github.com/carolinecunha-coder/carolinecunha-coder.git):** Repositório central de apresentação profissional, reunindo biografia, objetivos de carreira e centralizando o acesso aos principais projetos de análise de dados.
-
----
-
-### 🛠 Competências Técnicas
-* **Linguagens:** Python (Pandas, NumPy, Matplotlib, Seaborn).
-* **Ferramentas:** Excel Avançado, SQL, Power BI.
-* **Domínio:** Gestão de Ativos, Análise de Risco e Inteligência de Negócio.
+* **[Aegis Vita](https://github.com/carolinecunha-coder/aegis-vita):** Desenvolvimento de inteligência lógica aplicada a seguros. Arquitetura em Python e FastAPI com banco de dados SQLite para simulação de prêmios e coberturas estruturadas.
+* **[Análise de Investimentos](https://github.com/carolinecunha-coder/projeto-investimentos):** Solução programática para análise quantitativa de rentabilidade de ativos e cruzamento automatizado com benchmarks econômicos (CDI e IPCA).
+* **[Inteligência de Vendas](https://github.com/carolinecunha-coder/analise-sales-farmavida):** Engenharia de recursos e diagnóstico analítico de performance comercial para identificação de tendências de mercado e otimização de faturamento regional.
+* **[Análise de Varejo](https://github.com/carolinecunha-coder/Miniprojeto_CarolineSCLopes_Analise_de_Dados_T1.git):** Processamento de dados via pipeline de ETL e Análise Exploratória (EDA) utilizando Python e Pandas para geração de insights comerciais.
+* **[Pipeline de Talentos](https://github.com/carolinecunha-coder/projeto-pipeline-talentos.git):** Estruturação de modelo analítico e métricas de monitoramento voltadas à performance, mapeando o impacto de competências técnicas.
+* **[Portfólio Pessoal](https://github.com/carolinecunha-coder/carolinecunha-coder.git):** Repositório centralizador focado em governança, documentação e arquitetura do ecossistema de dados.
 
 ---
 
-### 📫 Contato & Conexão
-* **LinkedIn:**(www.linkedin.com/in/caroline-sc-lopes)
-* **E-mail:** [caroline.s.cunha@hotmail.com]
+## 🛠️ Competências e Tecnologias
+
+* **Áreas de Domínio:** Seguros de Vida, Gestão de Portfólios, Proteção de Ativos, Inteligência de Mercado e Análise de Risco.
+* **Linguagens e Manipulação:** Python (Pandas, NumPy, Matplotlib, Seaborn) e SQL.
+* **Bancos de Dados:** SQLite e SQL Server.
+* **Ferramentas de Análise:** Excel Avançado e Power BI.
+* **Governança e Versionamento:** Git e GitHub.
+
+---
+
+## 📫 Contato & Conexão
+
+* **LinkedIn:** [linkedin.com/in/caroline-sc-lopes](https://www.linkedin.com/in/caroline-sc-lopes)
+* **E-mail:** [caroline.s.cunha@hotmail.com](mailto:caroline.s.cunha@hotmail.com)
