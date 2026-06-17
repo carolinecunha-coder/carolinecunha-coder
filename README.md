@@ -12,12 +12,12 @@ Tenho experiência na identificação de tendências de mercado, análise de per
 
 ### 📊 Projetos e Soluções Desenvolvidas
 
-* **Aegis Vita:** Desenvolvimento de inteligência lógica aplicada a seguros. Arquitetura em Python e FastAPI com banco de dados SQLite para simulação de prêmios e coberturas estruturadas.
-* **Análise de Investimentos:** Solução programática para análise quantitativa de rentabilidade de ativos e cruzamento automatizado com benchmarks econômicos (CDI e IPCA).
-* **Inteligência de Vendas:** Engenharia de recursos e diagnóstico analítico de performance comercial para identificação de tendências de mercado e otimização de faturamento regional.
-* **Análise de Varejo:** Processamento de dados via pipeline de ETL e Análise Exploratória (EDA) utilizando Python e Pandas para geração de insights comerciais.
-* **Pipeline de Talentos:** Estruturação de modelo analítico e métricas de monitoramento voltadas à performance, mapeando o impacto de competências técnicas.
-* **Portfólio Pessoal:** Repositório centralizador focado em governança, documentação e arquitetura do ecossistema de dados.
+* **[Aegis Vita](https://github.com/carolinecunha-coder/Aegis-Vita):** Desenvolvimento de inteligência lógica aplicada a seguros. Arquitetura em Python e FastAPI com banco de dados SQLite para simulação de prêmios e coberturas estruturadas.
+* **[Análise de Investimentos](https://github.com/carolinecunha-coder/analise-investimentos):** Solução programática para análise quantitativa de rentabilidade de ativos e cruzamento automatizado com benchmarks econômicos (CDI e IPCA).
+* **[Inteligência de Vendas](https://github.com/carolinecunha-coder/analise-vendas-farmavida):** Engenharia de recursos e diagnóstico analítico de performance comercial para identificação de tendências de mercado e otimização de faturamento regional.
+* **[Análise de Varejo](https://github.com/carolinecunha-coder/Projeto-Data-Science):** Processamento de dados via pipeline de ETL e Análise Exploratória (EDA) utilizando Python e Pandas para geração de insights comerciais.
+* **[Pipeline de Talentos](https://github.com/carolinecunha-coder/pipeline-talentos):** Estruturação de modelo analítico e métricas de monitoramento voltadas à performance, mapeando o impacto de competências técnicas.
+* **[Portfólio Pessoal](https://github.com/carolinecunha-coder):** Repositório centralizador focado em governança, documentação e arquitetura do ecossistema de dados.
 
 ---
 
@@ -33,5 +33,5 @@ Tenho experiência na identificação de tendências de mercado, análise de per
 
 ### 📫 Contato & Conexão
 
-* **LinkedIn:** www.linkedin.com/in/caroline-sc-lopes
+* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/caroline-sc-lopes)
 * **E-mail:** caroline.s.cunha@hotmail.com
