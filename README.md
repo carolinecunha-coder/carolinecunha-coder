@@ -33,5 +33,5 @@ Tenho experiência na identificação de tendências de mercado, análise de per
 
 ### 📫 Contato & Conexão
 
-* **LinkedIn:** https://www.linkedin.com/in/caroline-de-souza-cunha-lopes
+* **LinkedIn:** www.linkedin.com/in/caroline-sc-lopes
 * **E-mail:** caroline.s.cunha@hotmail.com
