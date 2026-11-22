@@ -1,12 +1,18 @@
 # Olá, sou Caroline de Souza Cunha Lopes 👋
 
-### Desenvolvimento de Soluções e Produtos | Seguros e Investimentos | CPA-20 | Decisões Baseadas em Dados (Data-Driven)
+### Análise de Dados | Inteligência Financeira | Gestão de Negócios | Análise de Indicadores | Mercado Financeiro | SQL | Python | Big Data | CPA-20
 
-Profissional sênior com sólida trajetória e bagagem nos setores de finanças, investimentos e seguros de vida, especializada em inteligência de mercado, gestão de portfólios e proteção de ativos sob a certificação ANBIMA CPA-20. Atuo estrategicamente na condução de análises de viabilidade financeira, avaliação de riscos e acompanhamento de indicadores macroeconômicos de performance.
+Profissional com experiência no mercado financeiro, com atuação voltada à inteligência financeira, gestão de negócios, análise de indicadores e relacionamento comercial.
 
-Utilizo Python, SQL e Pandas de forma instrumental para automatizar rotinas gerenciais, manipular grandes volumes de dados financeiros e otimizar regras de negócio complexas do mercado de seguros e investimentos.
+Minha trajetória envolve atividades relacionadas a carteiras de investimentos, ativos de renda fixa, previdência e seguros de vida, além de processos de inteligência financeira, segmentação de clientes, identificação de oportunidades comerciais e análise de informações para apoiar decisões de negócio.
 
-Tenho experiência na identificação de tendências de mercado, análise de performance e modelagem de cenários através de relatórios executivos e indicadores visuais com Matplotlib. Domino a modelagem relacional de bancos de dados em SQLite e SQL Server, com integração de fontes e controle de versionamento estruturado via Git e GitHub para garantir eficiência operacional e governança.
+Sou tecnóloga em Gestão Pública e possuo certificação CPA-20. Atualmente, estou ampliando minha formação por meio das pós-graduações em Big Data (Ciência de Dados) e Ciência de Dados e Machine Learning, pela FACULESTE.
+
+Também estou finalizando o curso de Análise de Dados com Python, pelo SCTEC, e desenvolvendo conhecimentos em SQL, Python, Pandas, PostgreSQL e Power BI por meio de estudos e projetos práticos.
+
+Tenho interesse na aplicação da análise de dados à inteligência de negócios, à análise financeira e à identificação de oportunidades, buscando integrar conhecimento de negócio, raciocínio analítico e tecnologia para apoiar decisões mais estratégicas.
+
+Áreas de interesse: Inteligência Financeira | Inteligência de Negócios | Análise de Dados | Gestão de Negócios | Mercado Financeiro.
 
 ---
 
