@@ -1,18 +1,24 @@
 # Olá, sou Caroline de Souza Cunha Lopes 👋
 
-### Análise de Dados | Inteligência Financeira | Gestão de Negócios | Análise de Indicadores | Mercado Financeiro | SQL | Python | Big Data | CPA-20
+### Análise de Dados | Análise de Negócios | Inteligência Financeira | SQL | Python | CPA-20
 
-Profissional com experiência no mercado financeiro, com atuação voltada à inteligência financeira, gestão de negócios, análise de indicadores e relacionamento comercial.
+Minha trajetória profissional une experiência no mercado financeiro, inteligência de negócios e uma formação em constante evolução na área de tecnologia e análise de dados.
 
-Minha trajetória envolve atividades relacionadas a carteiras de investimentos, ativos de renda fixa, previdência e seguros de vida, além de processos de inteligência financeira, segmentação de clientes, identificação de oportunidades comerciais e análise de informações para apoiar decisões de negócio.
+Ao longo da minha experiência profissional, desenvolvi conhecimentos relacionados à gestão de carteiras de investimentos, ativos de renda fixa, previdência privada e seguros de vida, além de atividades envolvendo inteligência financeira, segmentação de clientes, análise de indicadores, identificação de oportunidades comerciais e apoio à tomada de decisões.
 
-Sou tecnóloga em Gestão Pública e possuo certificação CPA-20. Atualmente, estou ampliando minha formação por meio das pós-graduações em Big Data (Ciência de Dados) e Ciência de Dados e Machine Learning, pela FACULESTE.
+Sou tecnóloga em Gestão Pública, possuo certificação CPA-20 (ANBIMA) e venho direcionando minha formação para a área de dados, buscando integrar minha experiência de negócio às possibilidades oferecidas pela tecnologia.
 
-Também estou finalizando o curso de Análise de Dados com Python, pelo SCTEC, e desenvolvendo conhecimentos em SQL, Python, Pandas, PostgreSQL e Power BI por meio de estudos e projetos práticos.
+Concluí o curso Análise de Dados com Python, pelo SCTEC, e atualmente curso duas pós-graduações pela FACULESTE: Big Data (Ciência de Dados) e Ciência de Dados e Machine Learning.
 
-Tenho interesse na aplicação da análise de dados à inteligência de negócios, à análise financeira e à identificação de oportunidades, buscando integrar conhecimento de negócio, raciocínio analítico e tecnologia para apoiar decisões mais estratégicas.
+Minha formação técnica também envolve SQL, Python, Pandas, PostgreSQL e Power BI, conhecimentos que venho aplicando em projetos práticos de tratamento, organização, modelagem e análise de dados, construção de consultas e desenvolvimento de soluções analíticas.
 
-Áreas de interesse: Inteligência Financeira | Inteligência de Negócios | Análise de Dados | Gestão de Negócios | Mercado Financeiro.
+Como próximo passo dessa trajetória, em 2027 iniciarei uma nova experiência de aprendizado: a Jornada Tech Sênior em Transformação Digital, promovida pelo SENAI/SC – Serviço Nacional de Aprendizagem Industrial e LAB 365. Uma oportunidade de aprofundar conhecimentos sobre tecnologia, inovação e transformação digital, ampliando minha visão sobre as aplicações dessas competências no ambiente de negócios e na indústria.
+
+Meu direcionamento profissional está na interseção entre Análise de Dados, Análise de Negócios e Inteligência Financeira. Busco transformar informações em conhecimento, identificar oportunidades e contribuir para decisões mais estratégicas, conectando visão de negócio, raciocínio analítico e tecnologia.
+
+Áreas de interesse:
+
+Análise de Dados | Análise de Negócios | Inteligência Financeira | SQL | Python | Big Data | Business Intelligence | Mercado Financeiro.
 
 ---
 
